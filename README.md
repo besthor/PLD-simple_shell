@@ -326,7 +326,7 @@ $
 
 👤 **Mosuro Kanyinsola Olubunmi**
 
-- GitHub: [@Mosuro1911](https://github.com/Mosuro1911)
+- GitHub: [@Mosuro1911] (https://github.com/Mosuro1911)
 
 👤 **SiziphiweD**
 
