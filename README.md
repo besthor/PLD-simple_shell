@@ -320,10 +320,22 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **Besthor Igbe**
 
 - GitHub: [@besthor] (https://github.com/besthor)
 
-👤 **MOSURO KANYINSOLA OLUBUNMI**
+👤 **Mosuro Kanyinsola Olubunmi**
 
-- GitHub: [@](https://github.com)
+- GitHub: [@Mosuro1911](https://github.com/Mosuro1911)
+
+👤 **SiziphiweD**
+
+- GitHub: [@SiziphiweD] (https://github.com/SiziphiweD)
+
+👤 **PhilisiweD**
+
+- GitHub: [@PhilisiweD] (https://github.com/PhilisiweD)
+
+👤 **Tebogo Dipale**
+
+- GitHub: [@MustbeThabz] (https://github.com/MustbeThabz)
